@@ -132,11 +132,6 @@ public class EasyTextifer extends Textifier {
   }
 
   @Override
-  @Deprecated
-  public void visitPermittedSubtypeExperimental(final String permittedSubtype) {
-  }
-
-  @Override
   public void visitInnerClass(final String name, final String outerName, final String innerName, final int access) {
   }
 
