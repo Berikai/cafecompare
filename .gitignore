@@ -12,3 +12,6 @@ build
 
 # Ignore logs
 *.log
+
+# Ignore IDEA
+.idea
